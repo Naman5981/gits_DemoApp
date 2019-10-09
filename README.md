@@ -2,8 +2,8 @@
 This Demo was represented to Geetanjali Institute of Technical Studies as an Assignment to the Android WorkShop.
 
 ## Requirements
+### any Android supported IDE
 ```bash
-### IDE
 Android Studio
 ```
 ```bash
